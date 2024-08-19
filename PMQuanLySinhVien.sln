@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMQuanLySinhVien", "PMQuanLySinhVien\PMQuanLySinhVien.csproj", "{032F6341-0D10-43F9-A6AD-A5F61466E515}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GUI", "GUI", "{E59990DE-6319-43E8-9B93-EE3B6FC95A22}"
+	ProjectSection(SolutionItems) = preProject
+		PMQuanLySinhVien\BangDiemSV.cs = PMQuanLySinhVien\BangDiemSV.cs
+		PMQuanLySinhVien\BangDiemSV.Designer.cs = PMQuanLySinhVien\BangDiemSV.Designer.cs
+		PMQuanLySinhVien\BangDiemSV.resx = PMQuanLySinhVien\BangDiemSV.resx
+		PMQuanLySinhVien\ChiTietTaiKhoan.cs = PMQuanLySinhVien\ChiTietTaiKhoan.cs
+		PMQuanLySinhVien\ChiTietTaiKhoan.Designer.cs = PMQuanLySinhVien\ChiTietTaiKhoan.Designer.cs
+		PMQuanLySinhVien\DoiMatKhau.cs = PMQuanLySinhVien\DoiMatKhau.cs
+		PMQuanLySinhVien\DoiMatKhau.Designer.cs = PMQuanLySinhVien\DoiMatKhau.Designer.cs
+		PMQuanLySinhVien\Form1.cs = PMQuanLySinhVien\Form1.cs
+		PMQuanLySinhVien\Form1.Designer.cs = PMQuanLySinhVien\Form1.Designer.cs
+		PMQuanLySinhVien\Khoa.cs = PMQuanLySinhVien\Khoa.cs
+		PMQuanLySinhVien\Khoa.Designer.cs = PMQuanLySinhVien\Khoa.Designer.cs
+		PMQuanLySinhVien\QuanLyCoVanHocTap.cs = PMQuanLySinhVien\QuanLyCoVanHocTap.cs
+		PMQuanLySinhVien\QuanLyCoVanHocTap.Designer.cs = PMQuanLySinhVien\QuanLyCoVanHocTap.Designer.cs
+		PMQuanLySinhVien\QuanLyCoVanHocTap.resx = PMQuanLySinhVien\QuanLyCoVanHocTap.resx
+		PMQuanLySinhVien\QuanLyLop.cs = PMQuanLySinhVien\QuanLyLop.cs
+		PMQuanLySinhVien\QuanLyLop.Designer.cs = PMQuanLySinhVien\QuanLyLop.Designer.cs
+		PMQuanLySinhVien\QuanLyMonHoc.cs = PMQuanLySinhVien\QuanLyMonHoc.cs
+		PMQuanLySinhVien\QuanLyMonHoc.Designer.cs = PMQuanLySinhVien\QuanLyMonHoc.Designer.cs
+		PMQuanLySinhVien\QuanLyTaiKhoan.cs = PMQuanLySinhVien\QuanLyTaiKhoan.cs
+		PMQuanLySinhVien\QuanLyTaiKhoan.Designer.cs = PMQuanLySinhVien\QuanLyTaiKhoan.Designer.cs
+		PMQuanLySinhVien\QuanLyTaiKhoan.resx = PMQuanLySinhVien\QuanLyTaiKhoan.resx
+		PMQuanLySinhVien\sinhvien.cs = PMQuanLySinhVien\sinhvien.cs
+		PMQuanLySinhVien\sinhvien.Designer.cs = PMQuanLySinhVien\sinhvien.Designer.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{032F6341-0D10-43F9-A6AD-A5F61466E515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032F6341-0D10-43F9-A6AD-A5F61466E515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032F6341-0D10-43F9-A6AD-A5F61466E515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032F6341-0D10-43F9-A6AD-A5F61466E515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AAFF1BB-E5B9-42C1-A035-46B3F543D6E5}
+	EndGlobalSection
+EndGlobal
